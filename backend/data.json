@@ -1,0 +1,6 @@
+[
+  { "id": 1, "course": "Node" },
+  { "id": 2, "course": "React" },
+  { "id": 3, "course": "Mongoose" },
+  { "id": 4, "course": "TypeORM" }
+]
